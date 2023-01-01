@@ -1,16 +1,26 @@
-# quizme
+# quizme  
 
-A new Flutter project.
+# My Goal
 
-## Getting Started
+In this I will be reviewing Stateful and Stateless Widgets as well as learning about the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects.
 
-This project is a starting point for a Flutter application.
+# What I have created 
 
-A few resources to get you started if this is your first Flutter project:
+I have made a quiz app that tests our general knowledge. As one of the most popular types of apps on the app stores.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+image.png
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# What I have learned
+
+-Modularising my code into separate classes.
+-Dart classes and objects.
+-Using class constructors.
+-Extracting Widgets to refactor your code.
+-private and public modifiers in Dart.
+-How to use Dart lists.
+-The difference between var, const and final.
+
+
+
+
+
